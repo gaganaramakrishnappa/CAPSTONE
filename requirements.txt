@@ -1,0 +1,9 @@
+BeautifulSoup4
+tldextract
+whois
+python-whois
+regex
+dnspython 
+joblib
+sklearn
+lxml
